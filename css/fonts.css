@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Noto Sans';
+	
+    src: url('fonts/noto-sans-display-semibold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
